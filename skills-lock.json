@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "skills": {
+    "llm-electron": {
+      "source": "smallest-inc/skills",
+      "sourceType": "github",
+      "skillPath": "llm-electron/SKILL.md",
+      "computedHash": "5cd720694c7ffce40df37ccaa8c4573722b7f2fdf570be7fe6ad196807924272"
+    },
+    "setup-api-key": {
+      "source": "smallest-inc/skills",
+      "sourceType": "github",
+      "skillPath": "setup-api-key/SKILL.md",
+      "computedHash": "f057998a88d1630233991f85e6657b959dc050e69acb7611c7a5eaa08d404a35"
+    },
+    "speech-to-speech": {
+      "source": "smallest-inc/skills",
+      "sourceType": "github",
+      "skillPath": "speech-to-speech/SKILL.md",
+      "computedHash": "c5ad2e8f6c09f54f4fb54474ebd3a43729d17a00efc624bcad9da55bb6a8c8e0"
+    },
+    "speech-to-text": {
+      "source": "smallest-inc/skills",
+      "sourceType": "github",
+      "skillPath": "speech-to-text/SKILL.md",
+      "computedHash": "980fb8fd8d223d3db93f67f0f68ef58efa77c0c9a346c6cdfd904d1d0e02eb29"
+    },
+    "text-to-speech": {
+      "source": "smallest-inc/skills",
+      "sourceType": "github",
+      "skillPath": "text-to-speech/SKILL.md",
+      "computedHash": "7286161ff5fef997b08e8d054868dc6358c4b8ec118adcdd34b7badbdd2f3e22"
+    },
+    "voice-agents": {
+      "source": "smallest-inc/skills",
+      "sourceType": "github",
+      "skillPath": "voice-agents/SKILL.md",
+      "computedHash": "3cc37cb8bdc465060542223bec4458fdc588c14e56b203368dc47ecb8c3fecb9"
+    }
+  }
+}

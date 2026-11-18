@@ -1,0 +1,735 @@
+{
+ "status": "success",
+ "transcription": "This is Mingo's, what can I get you today? Uh, hi, can I get two cold coffees, please? Two cold coffees, got it. Where should we deliver them to? Uh, it will be to Central Block. So that's two cold coffees to Central Block for one hundred and eighty rupees Ohh sorry wait wait wait, uh less sugar in both of them please Less sugar in both, got it So two cold coffees with less sugar to Central Block for one hundred and eighty rupees, confirm that Yeah, that's right And whose name should the bill be in? Uh put it on Doctor Rajesh Khanna Got it. The bills in Doctor Rajesh Khanna's name. Thanks for ordering and have a great day.",
+ "words": [
+  {
+   "word": "This",
+   "start": 0.4,
+   "end": 0.48,
+   "confidence": 0.969
+  },
+  {
+   "word": "is",
+   "start": 0.64,
+   "end": 0.72,
+   "confidence": 0.9864
+  },
+  {
+   "word": "Mingo's,",
+   "start": 0.8,
+   "end": 1.52,
+   "confidence": 0.9544
+  },
+  {
+   "word": "what",
+   "start": 1.52,
+   "end": 1.6,
+   "confidence": 0.9381
+  },
+  {
+   "word": "can",
+   "start": 1.68,
+   "end": 1.76,
+   "confidence": 0.914
+  },
+  {
+   "word": "I",
+   "start": 1.84,
+   "end": 1.92,
+   "confidence": 0.9213
+  },
+  {
+   "word": "get",
+   "start": 2,
+   "end": 2.08,
+   "confidence": 0.9353
+  },
+  {
+   "word": "you",
+   "start": 2.16,
+   "end": 2.24,
+   "confidence": 0.9231
+  },
+  {
+   "word": "today?",
+   "start": 2.48,
+   "end": 2.8,
+   "confidence": 0.9228
+  },
+  {
+   "word": "Uh,",
+   "start": 3.04,
+   "end": 3.36,
+   "confidence": 0.9428
+  },
+  {
+   "word": "hi,",
+   "start": 3.36,
+   "end": 3.68,
+   "confidence": 0.9292
+  },
+  {
+   "word": "can",
+   "start": 3.68,
+   "end": 3.76,
+   "confidence": 0.9227
+  },
+  {
+   "word": "I",
+   "start": 3.92,
+   "end": 4,
+   "confidence": 0.9406
+  },
+  {
+   "word": "get",
+   "start": 4.08,
+   "end": 4.16,
+   "confidence": 0.9982
+  },
+  {
+   "word": "two",
+   "start": 4.32,
+   "end": 4.4,
+   "confidence": 0.9435
+  },
+  {
+   "word": "cold",
+   "start": 4.48,
+   "end": 4.64,
+   "confidence": 0.9676
+  },
+  {
+   "word": "coffees,",
+   "start": 4.72,
+   "end": 5.28,
+   "confidence": 0.9847
+  },
+  {
+   "word": "please?",
+   "start": 5.28,
+   "end": 5.76,
+   "confidence": 0.9886
+  },
+  {
+   "word": "Two",
+   "start": 7.6,
+   "end": 7.68,
+   "confidence": 0.9164
+  },
+  {
+   "word": "cold",
+   "start": 7.84,
+   "end": 8.08,
+   "confidence": 0.9906
+  },
+  {
+   "word": "coffees,",
+   "start": 8.16,
+   "end": 8.8,
+   "confidence": 0.9604
+  },
+  {
+   "word": "got",
+   "start": 8.96,
+   "end": 9.04,
+   "confidence": 0.9334
+  },
+  {
+   "word": "it.",
+   "start": 9.2,
+   "end": 9.44,
+   "confidence": 0.9445
+  },
+  {
+   "word": "Where",
+   "start": 9.6,
+   "end": 9.68,
+   "confidence": 0.9663
+  },
+  {
+   "word": "should",
+   "start": 9.84,
+   "end": 9.92,
+   "confidence": 0.9327
+  },
+  {
+   "word": "we",
+   "start": 10,
+   "end": 10.08,
+   "confidence": 0.9733
+  },
+  {
+   "word": "deliver",
+   "start": 10.24,
+   "end": 10.56,
+   "confidence": 0.987
+  },
+  {
+   "word": "them",
+   "start": 10.64,
+   "end": 10.72,
+   "confidence": 0.9963
+  },
+  {
+   "word": "to?",
+   "start": 10.88,
+   "end": 11.2,
+   "confidence": 0.9944
+  },
+  {
+   "word": "Uh,",
+   "start": 11.28,
+   "end": 11.44,
+   "confidence": 0.9897
+  },
+  {
+   "word": "it",
+   "start": 11.44,
+   "end": 11.52,
+   "confidence": 0.9862
+  },
+  {
+   "word": "will",
+   "start": 11.6,
+   "end": 11.68,
+   "confidence": 0.9198
+  },
+  {
+   "word": "be",
+   "start": 11.84,
+   "end": 11.92,
+   "confidence": 0.9158
+  },
+  {
+   "word": "to",
+   "start": 12,
+   "end": 12.08,
+   "confidence": 0.9585
+  },
+  {
+   "word": "Central",
+   "start": 12.24,
+   "end": 12.64,
+   "confidence": 0.9261
+  },
+  {
+   "word": "So",
+   "start": 15.275,
+   "end": 15.355,
+   "confidence": 0.9256
+  },
+  {
+   "word": "that's",
+   "start": 15.515,
+   "end": 15.755,
+   "confidence": 0.9331
+  },
+  {
+   "word": "two",
+   "start": 15.835,
+   "end": 15.915,
+   "confidence": 0.9309
+  },
+  {
+   "word": "cold",
+   "start": 15.995,
+   "end": 16.235,
+   "confidence": 0.9469
+  },
+  {
+   "word": "coffees",
+   "start": 16.315,
+   "end": 16.795,
+   "confidence": 0.9884
+  },
+  {
+   "word": "to",
+   "start": 16.795,
+   "end": 16.875,
+   "confidence": 0.922
+  },
+  {
+   "word": "Central",
+   "start": 16.955,
+   "end": 17.355,
+   "confidence": 0.9349
+  },
+  {
+   "word": "Block",
+   "start": 17.355,
+   "end": 17.675,
+   "confidence": 0.9674
+  },
+  {
+   "word": "for",
+   "start": 17.755,
+   "end": 17.835,
+   "confidence": 0.9334
+  },
+  {
+   "word": "one",
+   "start": 17.915,
+   "end": 17.995,
+   "confidence": 0.9213
+  },
+  {
+   "word": "hundred",
+   "start": 18.075,
+   "end": 18.155,
+   "confidence": 0.9738
+  },
+  {
+   "word": "and",
+   "start": 18.235,
+   "end": 18.315,
+   "confidence": 0.949
+  },
+  {
+   "word": "eighty",
+   "start": 18.395,
+   "end": 18.635,
+   "confidence": 0.9495
+  },
+  {
+   "word": "rupees",
+   "start": 18.635,
+   "end": 18.955,
+   "confidence": 0.9811
+  },
+  {
+   "word": "Ohh",
+   "start": 18.955,
+   "end": 19.115,
+   "confidence": 0.9103
+  },
+  {
+   "word": "sorry",
+   "start": 19.115,
+   "end": 19.195,
+   "confidence": 0.9288
+  },
+  {
+   "word": "wait",
+   "start": 19.195,
+   "end": 19.435,
+   "confidence": 0.9791
+  },
+  {
+   "word": "wait",
+   "start": 19.435,
+   "end": 19.595,
+   "confidence": 0.9556
+  },
+  {
+   "word": "wait,",
+   "start": 19.675,
+   "end": 19.995,
+   "confidence": 0.9587
+  },
+  {
+   "word": "uh",
+   "start": 20.235,
+   "end": 20.315,
+   "confidence": 0.9345
+  },
+  {
+   "word": "less",
+   "start": 20.555,
+   "end": 20.635,
+   "confidence": 0.992
+  },
+  {
+   "word": "sugar",
+   "start": 20.875,
+   "end": 21.195,
+   "confidence": 0.923
+  },
+  {
+   "word": "in",
+   "start": 21.435,
+   "end": 21.515,
+   "confidence": 0.977
+  },
+  {
+   "word": "both",
+   "start": 21.675,
+   "end": 21.755,
+   "confidence": 0.9703
+  },
+  {
+   "word": "of",
+   "start": 21.915,
+   "end": 21.995,
+   "confidence": 0.9922
+  },
+  {
+   "word": "them",
+   "start": 22.075,
+   "end": 22.155,
+   "confidence": 0.9497
+  },
+  {
+   "word": "please",
+   "start": 22.395,
+   "end": 22.475,
+   "confidence": 0.9874
+  },
+  {
+   "word": "Less",
+   "start": 24.795,
+   "end": 24.875,
+   "confidence": 0.975
+  },
+  {
+   "word": "sugar",
+   "start": 25.115,
+   "end": 25.435,
+   "confidence": 0.9913
+  },
+  {
+   "word": "in",
+   "start": 25.515,
+   "end": 25.595,
+   "confidence": 0.9638
+  },
+  {
+   "word": "both,",
+   "start": 25.675,
+   "end": 25.995,
+   "confidence": 0.9645
+  },
+  {
+   "word": "got",
+   "start": 25.995,
+   "end": 26.075,
+   "confidence": 0.9454
+  },
+  {
+   "word": "it",
+   "start": 26.315,
+   "end": 26.395,
+   "confidence": 0.9402
+  },
+  {
+   "word": "So",
+   "start": 26.875,
+   "end": 26.955,
+   "confidence": 0.9565
+  },
+  {
+   "word": "two",
+   "start": 27.115,
+   "end": 27.195,
+   "confidence": 0.9284
+  },
+  {
+   "word": "cold",
+   "start": 27.275,
+   "end": 27.515,
+   "confidence": 0.9852
+  },
+  {
+   "word": "coffees",
+   "start": 27.515,
+   "end": 27.995,
+   "confidence": 0.9713
+  },
+  {
+   "word": "with",
+   "start": 28.075,
+   "end": 28.155,
+   "confidence": 0.9735
+  },
+  {
+   "word": "less",
+   "start": 28.235,
+   "end": 28.315,
+   "confidence": 0.9609
+  },
+  {
+   "word": "sugar",
+   "start": 28.395,
+   "end": 28.715,
+   "confidence": 0.9402
+  },
+  {
+   "word": "to",
+   "start": 28.795,
+   "end": 28.875,
+   "confidence": 0.9128
+  },
+  {
+   "word": "Central",
+   "start": 28.875,
+   "end": 29.275,
+   "confidence": 0.9374
+  },
+  {
+   "word": "Block",
+   "start": 29.355,
+   "end": 29.595,
+   "confidence": 0.966
+  },
+  {
+   "word": "for",
+   "start": 29.595,
+   "end": 29.675,
+   "confidence": 0.9591
+  },
+  {
+   "word": "one",
+   "start": 29.755,
+   "end": 29.835,
+   "confidence": 0.9147
+  },
+  {
+   "word": "hundred",
+   "start": 29.915,
+   "end": 29.995,
+   "confidence": 0.9471
+  },
+  {
+   "word": "and",
+   "start": 30.075,
+   "end": 30.155,
+   "confidence": 0.9981
+  },
+  {
+   "word": "eighty",
+   "start": 30.155,
+   "end": 30.475,
+   "confidence": 0.9693
+  },
+  {
+   "word": "rupees,",
+   "start": 30.475,
+   "end": 31.115,
+   "confidence": 0.9284
+  },
+  {
+   "word": "confirm",
+   "start": 31.195,
+   "end": 31.595,
+   "confidence": 0.9151
+  },
+  {
+   "word": "that",
+   "start": 31.675,
+   "end": 31.755,
+   "confidence": 0.9265
+  },
+  {
+   "word": "Yeah,",
+   "start": 32.235,
+   "end": 32.555,
+   "confidence": 0.9471
+  },
+  {
+   "word": "that's",
+   "start": 32.555,
+   "end": 32.875,
+   "confidence": 0.9479
+  },
+  {
+   "word": "right",
+   "start": 32.875,
+   "end": 32.955,
+   "confidence": 0.9909
+  },
+  {
+   "word": "And",
+   "start": 35.275,
+   "end": 35.355,
+   "confidence": 0.9661
+  },
+  {
+   "word": "whose",
+   "start": 35.675,
+   "end": 35.995,
+   "confidence": 0.9398
+  },
+  {
+   "word": "name",
+   "start": 36.075,
+   "end": 36.155,
+   "confidence": 0.9487
+  },
+  {
+   "word": "should",
+   "start": 36.315,
+   "end": 36.395,
+   "confidence": 0.9865
+  },
+  {
+   "word": "the",
+   "start": 36.475,
+   "end": 36.555,
+   "confidence": 0.9149
+  },
+  {
+   "word": "bill",
+   "start": 36.555,
+   "end": 36.635,
+   "confidence": 0.9852
+  },
+  {
+   "word": "be",
+   "start": 36.875,
+   "end": 36.955,
+   "confidence": 0.9929
+  },
+  {
+   "word": "in?",
+   "start": 37.035,
+   "end": 37.435,
+   "confidence": 0.9544
+  },
+  {
+   "word": "Uh",
+   "start": 37.595,
+   "end": 37.675,
+   "confidence": 0.982
+  },
+  {
+   "word": "put",
+   "start": 37.915,
+   "end": 37.995,
+   "confidence": 0.9901
+  },
+  {
+   "word": "it",
+   "start": 38.075,
+   "end": 38.155,
+   "confidence": 0.9388
+  },
+  {
+   "word": "on",
+   "start": 38.235,
+   "end": 38.315,
+   "confidence": 0.959
+  },
+  {
+   "word": "Doctor",
+   "start": 38.395,
+   "end": 38.715,
+   "confidence": 0.9881
+  },
+  {
+   "word": "Rajesh",
+   "start": 38.795,
+   "end": 39.275,
+   "confidence": 0.9181
+  },
+  {
+   "word": "Khanna",
+   "start": 39.355,
+   "end": 39.755,
+   "confidence": 0.9435
+  },
+  {
+   "word": "Got",
+   "start": 42.15,
+   "end": 42.23,
+   "confidence": 0.9726
+  },
+  {
+   "word": "it.",
+   "start": 42.47,
+   "end": 42.95,
+   "confidence": 0.9735
+  },
+  {
+   "word": "The",
+   "start": 42.95,
+   "end": 43.03,
+   "confidence": 0.924
+  },
+  {
+   "word": "bills",
+   "start": 43.03,
+   "end": 43.43,
+   "confidence": 0.9568
+  },
+  {
+   "word": "in",
+   "start": 43.43,
+   "end": 43.59,
+   "confidence": 0.9889
+  },
+  {
+   "word": "Doctor",
+   "start": 43.59,
+   "end": 43.91,
+   "confidence": 0.9899
+  },
+  {
+   "word": "Rajesh",
+   "start": 43.91,
+   "end": 44.39,
+   "confidence": 0.9783
+  },
+  {
+   "word": "Khanna's",
+   "start": 44.39,
+   "end": 45.03,
+   "confidence": 0.9244
+  },
+  {
+   "word": "name.",
+   "start": 45.03,
+   "end": 45.27,
+   "confidence": 0.9922
+  },
+  {
+   "word": "Thanks",
+   "start": 45.35,
+   "end": 45.59,
+   "confidence": 0.957
+  },
+  {
+   "word": "for",
+   "start": 45.59,
+   "end": 45.67,
+   "confidence": 0.9882
+  },
+  {
+   "word": "ordering",
+   "start": 45.83,
+   "end": 46.23,
+   "confidence": 0.9606
+  },
+  {
+   "word": "and",
+   "start": 46.31,
+   "end": 46.39,
+   "confidence": 0.9229
+  },
+  {
+   "word": "have",
+   "start": 46.47,
+   "end": 46.55,
+   "confidence": 0.9774
+  },
+  {
+   "word": "a",
+   "start": 46.71,
+   "end": 46.79,
+   "confidence": 0.9854
+  },
+  {
+   "word": "great",
+   "start": 46.79,
+   "end": 46.87,
+   "confidence": 0.9178
+  }
+ ],
+ "language": "en",
+ "metadata": {
+  "duration": 48.107,
+  "processing_time_ms": 720.47,
+  "rtfx": 66.8,
+  "num_chunks": 3
+ },
+ "totalBytes": 1539492,
+ "request_id": "7eb9090f-43ad-437e-bbae-c07c9950cc3c"
+}

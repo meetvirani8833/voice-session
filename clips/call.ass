@@ -1,0 +1,39 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Line,Segoe UI Semibold,64,&H003D2414,&H003D2414,&H00FAF6F3,&H00FAF6F3,0,0,0,0,100,100,0,0,1,0,0,7,128,128,470,1
+Style: Who,Segoe UI,40,&H001A47B4,&H001A47B4,&H00FAF6F3,&H00FAF6F3,1,0,0,0,100,100,3,0,1,0,0,7,128,128,400,1
+Style: Head,Segoe UI,34,&H007A6050,&H007A6050,&H00FAF6F3,&H00FAF6F3,1,0,0,0,100,100,4,0,1,0,0,7,128,128,96,1
+Style: Title,Segoe UI Semibold,60,&H003D2414,&H003D2414,&H00FAF6F3,&H00FAF6F3,0,0,0,0,100,100,0,0,1,0,0,7,128,128,150,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:48.11,Head,,0,0,0,,RECORDED CALL · AN AI VOICE AGENT TAKES AN ORDER
+Dialogue: 3,0:00:00.00,0:00:48.11,Title,,0,0,0,,Mingos, campus café
+Dialogue: 1,0:00:00.30,0:00:02.94,Who,,0,0,0,,{\c&H001A47B4&}MINGOS · AI AGENT
+Dialogue: 2,0:00:00.30,0:00:02.94,Line,,0,0,0,,This is Mingos! What can I get you today?
+Dialogue: 1,0:00:02.94,0:00:07.50,Who,,0,0,0,,{\c&H00867C0E&}MEET · CALLER
+Dialogue: 2,0:00:02.94,0:00:07.50,Line,,0,0,0,,Uh, hi, can I get two cold coffees, please?
+Dialogue: 1,0:00:07.50,0:00:11.18,Who,,0,0,0,,{\c&H001A47B4&}MINGOS · AI AGENT
+Dialogue: 2,0:00:07.50,0:00:11.18,Line,,0,0,0,,Two cold coffees, got it. Where should we deliver them to?
+Dialogue: 1,0:00:11.18,0:00:15.18,Who,,0,0,0,,{\c&H00867C0E&}MEET · CALLER
+Dialogue: 2,0:00:11.18,0:00:15.18,Line,,0,0,0,,Uh, it will be to Central Block.
+Dialogue: 1,0:00:15.18,0:00:18.85,Who,,0,0,0,,{\c&H001A47B4&}MINGOS · AI AGENT
+Dialogue: 2,0:00:15.18,0:00:18.85,Line,,0,0,0,,So that's two cold coffees to Central Block for one hundred and eighty rupees…
+Dialogue: 1,0:00:18.85,0:00:24.70,Who,,0,0,0,,{\c&H00867C0E&}MEET · CALLER
+Dialogue: 2,0:00:18.85,0:00:24.70,Line,,0,0,0,,Oh, sorry, wait wait wait. Uh, less sugar in both of them, please.
+Dialogue: 1,0:00:24.70,0:00:32.13,Who,,0,0,0,,{\c&H001A47B4&}MINGOS · AI AGENT
+Dialogue: 2,0:00:24.70,0:00:32.13,Line,,0,0,0,,Less sugar in both, got it. So two cold coffees with less sugar to Central Block for one hundred and eighty rupees. Confirm that?
+Dialogue: 1,0:00:32.13,0:00:35.17,Who,,0,0,0,,{\c&H00867C0E&}MEET · CALLER
+Dialogue: 2,0:00:32.13,0:00:35.17,Line,,0,0,0,,Yeah, that's right.
+Dialogue: 1,0:00:35.17,0:00:37.49,Who,,0,0,0,,{\c&H001A47B4&}MINGOS · AI AGENT
+Dialogue: 2,0:00:35.17,0:00:37.49,Line,,0,0,0,,And whose name should the bill be in?
+Dialogue: 1,0:00:37.49,0:00:42.05,Who,,0,0,0,,{\c&H00867C0E&}MEET · CALLER
+Dialogue: 2,0:00:37.49,0:00:42.05,Line,,0,0,0,,Uh, put it on Dr. Rajesh Kanna.
+Dialogue: 1,0:00:42.05,0:00:48.11,Who,,0,0,0,,{\c&H001A47B4&}MINGOS · AI AGENT
+Dialogue: 2,0:00:42.05,0:00:48.11,Line,,0,0,0,,Got it, the bill's in Dr. Rajesh Kanna's name. Thanks for ordering, and have a great day!

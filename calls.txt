@@ -1,0 +1,3 @@
+{"kind": "test", "resp": {"status": false, "errors": ["No caller ID for this call \u2014 pass a number to dial from, or attach a caller ID to the agent"]}}
+{"kind": "test", "status": 200, "resp": {"status": true, "data": {"conversationId": "I-B12AtXyCk_QNqn3Uo00A", "callId": "CALL-1794722575622-423404"}}}
+{"kind": "test2", "resp": {"status": true, "data": {"conversationId": "rKgCnSMEBHQPLQ7Gdv5x9Q", "callId": "CALL-1794722703329-0eda18"}}}

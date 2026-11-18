@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Talk to Mingos</title>
+<meta name="description" content="Order a coffee from Mingos, the AI voice agent from the Speech Processing session.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+  /* Blueprint, as in the deck: navy ink on pale paper, one orange accent, teal for notes */
+  :root {
+    --page: #F3F6FA; --paper: #FBFCFE; --ink: #14243D; --slate: #50607A;
+    --accent: #E0662A; --accent-deep: #B4471A; --teal: #0E7C86; --line: #C5D0DE;
+    --display: 'Space Grotesk', 'Segoe UI', Arial, sans-serif;
+    --body: 'Inter', 'Segoe UI', Arial, sans-serif;
+    --mono: 'JetBrains Mono', Consolas, monospace;
+  }
+  * { box-sizing: border-box; }
+  html, html body { margin: 0; background: var(--page) !important; color: var(--ink); font: 17px/1.55 var(--body); }
+  main { max-width: 760px; margin: 0 auto; padding-block: 48px 120px;
+         padding-left: max(20px, env(safe-area-inset-left, 0px)); padding-right: max(20px, env(safe-area-inset-right, 0px));
+         display: flex; flex-direction: column; gap: 28px; }
+  main .eyebrow { font: 500 13px/1 var(--mono); letter-spacing: .14em; color: var(--accent-deep); text-transform: uppercase; margin: 0; }
+  main h1 { font: 700 clamp(40px, 9vw, 64px)/1.02 var(--display) !important; color: var(--ink) !important; margin: 0; letter-spacing: -.02em; text-wrap: balance; }
+  main h2 { font: 700 22px/1.2 var(--display) !important; color: var(--ink) !important; margin: 0 0 12px; }
+  main p { margin: 0; }
+  main .lead { font-size: 19px; color: var(--slate); max-width: 60ch; }
+  .card { background: var(--paper); border: 2px solid var(--ink); border-radius: 14px; padding: 22px 24px; box-shadow: 6px 6px 0 var(--line); }
+  .card.hot { box-shadow: 6px 6px 0 var(--accent); }
+  ol { margin: 0; padding-left: 22px; display: flex; flex-direction: column; gap: 6px; }
+  .menu { display: grid; grid-template-columns: 1fr auto; gap: 8px 24px; font-variant-numeric: tabular-nums; }
+  .menu span:nth-child(even) { text-align: right; font-family: var(--mono); color: var(--slate); }
+  .tries { display: flex; flex-wrap: wrap; gap: 10px; }
+  .try { background: var(--page); border: 1.5px solid var(--line); border-radius: 999px; padding: 6px 14px; font-size: 15px; }
+  .fine { font-size: 14px; color: var(--slate); }
+  .fine b { color: var(--ink); }
+</style>
+</head>
+<body>
+<main>
+  <p class="eyebrow">Speech Processing &amp; Recognition · Voice agents session</p>
+  <h1>Talk to Mingos</h1>
+  <p class="lead">Mingos is the AI voice agent from the talk. It takes coffee orders for a pretend campus café. Order something, interrupt it, ask it odd questions, and listen for the pause before each reply.</p>
+
+  <section class="card hot">
+    <h2>How to start</h2>
+    <ol>
+      <li>Tap <b>Talk to Mingos</b> at the bottom right of the page.</li>
+      <li>Allow the microphone when your browser asks.</li>
+      <li>Wait for “Hi, this is Mingos!” and speak normally. Tap <b>End call</b> when you’re done.</li>
+    </ol>
+  </section>
+
+  <section class="card">
+    <h2>The menu</h2>
+    <div class="menu">
+      <span>Cold coffee</span><span>₹90</span>
+      <span>Hot coffee</span><span>₹60</span>
+      <span>Masala chai</span><span>₹30</span>
+      <span>Iced tea</span><span>₹70</span>
+      <span>Mango shake</span><span>₹100</span>
+      <span>Veg sandwich</span><span>₹80</span>
+      <span>Brownie</span><span>₹70</span>
+    </div>
+    <p class="fine" style="margin-top:14px">Delivers to Central Block, Blocks One to Four and the Library. Open 8 am to 8 pm.</p>
+  </section>
+
+  <section class="card">
+    <h2>Things to try</h2>
+    <div class="tries">
+      <span class="try">Order two cold coffees to Central Block</span>
+      <span class="try">Interrupt it while it’s talking</span>
+      <span class="try">Ask how long delivery takes</span>
+      <span class="try">Change your order halfway</span>
+      <span class="try">Ask for delivery off campus</span>
+      <span class="try">Ask if it’s a real person</span>
+    </div>
+  </section>
+
+  <p class="fine"><b>It’s a demo.</b> No coffee will arrive and nothing is charged to you. Calls are capped at five minutes and are processed by the voice platform, so don’t share anything personal.</p>
+</main>
+
+<atoms-widget assistant-id="6af94772057531c582e7374b"></atoms-widget>
+<script src="https://unpkg.com/atoms-widget-core@1.1.2/dist/embed/widget.umd.js"></script>
+</body>
+</html>

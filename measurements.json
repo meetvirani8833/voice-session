@@ -1,0 +1,52 @@
+{
+ "network_rtt_ms": 16,
+ "stt_whole_sentence_ms": 958,
+ "stt_heard": "Two cold coffees to Central Block, please.",
+ "tts_first_audio_ms": 843,
+ "tts_whole_reply_ms": 1818,
+ "endpointing_wait_ms": 800,
+ "warm_stt_whole_sentence_ms": 306,
+ "warm_tts_first_audio_ms": 205,
+ "warm_tts_whole_reply_ms": 1137,
+ "warm_runs": {
+  "stt": [
+   384,
+   277,
+   336,
+   305,
+   306
+  ],
+  "tts_first": [
+   205,
+   163,
+   159,
+   258,
+   250
+  ],
+  "tts_whole": [
+   1133,
+   1260,
+   1140,
+   1136,
+   1137
+  ]
+ },
+ "call": {
+  "sttApiMs": 842,
+  "sttToLlmMs": 206,
+  "llmApiMs": 144,
+  "llmToTtsMs": 239,
+  "ttsApiMs": 120,
+  "ttsToAudioMs": 151,
+  "totalTurnMs": 592,
+  "llmWholeReplyMs": 404,
+  "voiceToVoiceMedianMs": 1828,
+  "voiceToVoiceAllMs": [
+   1828,
+   2532,
+   1764,
+   1956,
+   1732
+  ]
+ }
+}
